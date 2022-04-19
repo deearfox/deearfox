@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/deearfox">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deearfox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deearfox&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deearfox&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deearfox&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -21,6 +21,7 @@
   <img align="right" alt="Bruna-gif" height="110" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96439119/164053445-56bd2866-860b-4103-b94a-50d553116f72.gif">
 </div>
   
+  chartreuse-dark
 
 ##
   
