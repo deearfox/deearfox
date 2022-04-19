@@ -21,8 +21,6 @@
   <img align="right" alt="Bruna-gif" height="110" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96439119/164053445-56bd2866-860b-4103-b94a-50d553116f72.gif">
 </div>
   
-  chartreuse-dark
-
 ##
   
 <div> 
