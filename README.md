@@ -1,4 +1,4 @@
-### Olá! Eu sou a Bruna Yamasaki
+### Olá! Eu sou a Bruna!
 
 
 - 🔭 Hoje trabalho com low code
