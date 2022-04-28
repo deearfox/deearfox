@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com Low Code.
 - 🌱 Estudando Html/Css, Java, Banco de Dados, Estratégias de Design. 
-- 📫 Como me achar: /deearfox
+- 📫 Como me achar: @deearfox
 - 😄 Pronomes: ela/dela.
 
 <div align="center">
