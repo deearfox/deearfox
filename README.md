@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Bruna!
 
 
-- 🔭 Hoje trabalho com low code
-- 🌱 Estudando Html/Css, Java. 
+- 🔭 Hoje trabalho com Low Code.
+- 🌱 Estudando Html/Css, Java, Banco de Dados, Estratégias de Design. 
 - 📫 Como me achar: /deearfox
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: ela/dela.
 
 <div align="center">
   <a href="https://github.com/deearfox">
