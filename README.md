@@ -20,7 +20,7 @@
   <img align="center" alt="Bruna-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/> 
     
     
-  <img align="right" alt="Bruna-gif" height="90" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96439119/164053445-56bd2866-860b-4103-b94a-50d553116f72.gif">
+  <img align="right" alt="Bruna-gif" height="90" style="border-radius:50px;" src="https://user-images.githubusercontent.com/96439119/165808461-14a2fd82-e4f5-493b-a81f-4b3cc8414815.gif">
 </div>
   
 ##
