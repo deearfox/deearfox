@@ -3,8 +3,8 @@
 
 - 🔭 Hoje trabalho com low code
 - 🌱 Estudando Html/Css, Java. 
-- 📫 How to reach me: /deearfox
-- 😄 Pronouns: ela/dela
+- 📫 Como me achar: /deearfox
+- 😄 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/deearfox">
