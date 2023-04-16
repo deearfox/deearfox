@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Bruna!
 
 
-- 🔭 Hoje trabalho com Power Platform e HTML/CSS Javascript
+- 🔭 Hoje trabalho com Power Platform, HTML5/CSS3 e Javascript
 - 🌱 Estudando Html/Css, Javascript, Java, Banco de Dados, Estratégias de Design. 
 - 📫 Como me achar: @deearfox
 - 😄 Pronomes: ela/dela.
