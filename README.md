@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Bruna!
 
 
-- 🔭 Hoje trabalho com Low Code.
-- 🌱 Estudando Html/Css, Java, Banco de Dados, Estratégias de Design. 
+- 🔭 Hoje trabalho com Power Platform e HTML/CSS Javascript
+- 🌱 Estudando Html/Css, Javascript, Java, Banco de Dados, Estratégias de Design. 
 - 📫 Como me achar: @deearfox
 - 😄 Pronomes: ela/dela.
 
